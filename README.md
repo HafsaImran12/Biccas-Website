@@ -51,7 +51,7 @@ For educational purposes only.
 
 ## 👩‍💻 Credit
 
-Made with ❤️ by **Hafsa Imran**
+Made by **Hafsa Imran**
 Frontend Practice Project
 
 ---
